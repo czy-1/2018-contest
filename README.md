@@ -1,3 +1,10 @@
+# how to start
+
+npm install
+npm start
+
+[在线演示地址https://czy-1.github.io/2018-contest/](https://czy-1.github.io/2018-contest/)
+
 # 2018年前端星计划
 
 这是星计划校招选拔的综合挑战题
